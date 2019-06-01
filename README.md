@@ -8,3 +8,4 @@ Jupyter notebook containing failing code for Youtube scraping - Search page is h
 <br/>
 #World Heat Map.ipynb<br/>
 Plot.ly user adjusted template for our data - Added few features<br/>
+The main graph is available also here: https://plot.ly/~Zobis/0 <br/>
